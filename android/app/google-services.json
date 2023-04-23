@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "655097908636",
+    "project_id": "school-management-system-9cab2",
+    "storage_bucket": "school-management-system-9cab2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655097908636:android:e1e5e188c1624b3309cc59",
+        "android_client_info": {
+          "package_name": "com.d1nz.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655097908636-ni29s4t6kc6klnrk76kre11uq02pe03r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2H1Qks3FRW68cfO5u9ul2qIKttVsfcH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655097908636-ni29s4t6kc6klnrk76kre11uq02pe03r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "655097908636-jmh376934l99la718uallsugfsuhhpd4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.d1nz.apex"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655097908636:android:21796478ad37949b09cc59",
+        "android_client_info": {
+          "package_name": "com.d1nz.apex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655097908636-oek79fqdalo53poii1te0agamila8m66.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.d1nz.apex",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "655097908636-ni29s4t6kc6klnrk76kre11uq02pe03r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2H1Qks3FRW68cfO5u9ul2qIKttVsfcH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655097908636-ni29s4t6kc6klnrk76kre11uq02pe03r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "655097908636-jmh376934l99la718uallsugfsuhhpd4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.d1nz.apex"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
